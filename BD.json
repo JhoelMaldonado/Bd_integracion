@@ -1,0 +1,20 @@
+{
+  "usuarios": [
+
+  ],
+  "Comunas": [
+    {
+      "idComuna": 1,
+      "nombreComuna": "San Bernardo"
+    },
+    {
+      "idComuna": 2,
+      "nombreComuna": "Peñalolen"
+    },
+    {
+      "idComuna": 3,
+      "nombreComuna": "PuenteAlto"
+    }
+  ],
+  "viajes": []
+}
