@@ -1,6 +1,45 @@
 {
   "usuarios": [
-
+    {
+      "conductor": "Diego El crack",
+      "origen": "sin sede",
+      "destino": "pepe",
+      "monto": 1500,
+      "capacidad": 2,
+      "id": 1
+    },
+    {
+      "conductor": "Diego El crack",
+      "origen": "sin sede",
+      "destino": "copec",
+      "monto": 1,
+      "capacidad": 25,
+      "id": 2
+    },
+    {
+      "conductor": "Diego El crack",
+      "origen": "sin sede",
+      "destino": "petrobras",
+      "monto": 50,
+      "capacidad": 25,
+      "id": 3
+    },
+    {
+      "conductor": "diego bb",
+      "origen": "sin sede",
+      "destino": "",
+      "monto": 0,
+      "capacidad": 0,
+      "id": 4
+    },
+    {
+      "conductor": "diego bb",
+      "origen": "sin sede",
+      "destino": "",
+      "monto": 0,
+      "capacidad": 0,
+      "id": 5
+    }
   ],
   "Comunas": [
     {
@@ -16,5 +55,13 @@
       "nombreComuna": "PuenteAlto"
     }
   ],
-  "viajes": []
+  "viajes": [],
+  "Camiones" : [
+  {
+    "Marca": "BMW",
+    "Chofer": "Juan",
+    "capacidadMax": 25,
+    "id": 1
+  }
+  ]
 }
